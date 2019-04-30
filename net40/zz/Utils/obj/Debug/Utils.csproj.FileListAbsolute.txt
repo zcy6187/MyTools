@@ -1,0 +1,5 @@
+G:\x私有项目\开发平台\Code\XCode\net40\zz\Utils\bin\Debug\Utils.dll
+G:\x私有项目\开发平台\Code\XCode\net40\zz\Utils\bin\Debug\Utils.pdb
+G:\x私有项目\开发平台\Code\XCode\net40\zz\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+G:\x私有项目\开发平台\Code\XCode\net40\zz\Utils\obj\Debug\Utils.dll
+G:\x私有项目\开发平台\Code\XCode\net40\zz\Utils\obj\Debug\Utils.pdb

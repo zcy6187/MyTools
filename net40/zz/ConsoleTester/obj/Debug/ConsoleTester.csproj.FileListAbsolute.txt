@@ -1,0 +1,7 @@
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\bin\Debug\ConsoleTester.exe
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\bin\Debug\ConsoleTester.pdb
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\obj\Debug\ConsoleTester.exe
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\obj\Debug\ConsoleTester.pdb
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\bin\Debug\Utils.dll
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\bin\Debug\Utils.pdb
+G:\x私有项目\开发平台\Code\XCode\net40\zz\ConsoleTester\obj\Debug\ConsoleTester.csprojResolveAssemblyReference.cache
